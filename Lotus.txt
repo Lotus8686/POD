@@ -52,8 +52,8 @@ ItemDisplay[isc]:
 ItemDisplay[tsc]: 
 ItemDisplay[key]: 
 ItemDisplay[box]: %NAME%
-ItemDisplay[hp5]: %WHITE%!%RED%HP%WHITE%+
-ItemDisplay[mp5]: %WHITE%!%BLUE%MP%WHITE%+
+ItemDisplay[hp5]: %WHITE%!%RED%H%WHITE%+
+ItemDisplay[mp5]: %WHITE%!%BLUE%M%WHITE%+
 ItemDisplay[rvs]: 
 ItemDisplay[rvl]: %WHITE%!%PURPLE%F
 ItemDisplay[CLVL>79 hp4]:
@@ -64,7 +64,7 @@ ItemDisplay[CLVL>79 mp4]:
 ItemDisplay[CLVL>60 mp3]:
 ItemDisplay[CLVL>30 mp2]:
 ItemDisplay[CLVL>15 mp1]:
-ItemDisplay[CLVL<80 hp4]: %WHITE%Great %WHITE%!%RED%HP
+ItemDisplay[CLVL<75 hp4]: %WHITE%Great %WHITE%!%RED%HP
 ItemDisplay[CLVL<49 hp3]: %WHITE%Normal %WHITE%!%RED%HP
 ItemDisplay[CLVL<25 hp2]: %WHITE%Light %WHITE%!%RED%HP
 ItemDisplay[CLVL<13 hp1]: %WHITE%Minor %WHITE%!%RED%HP
